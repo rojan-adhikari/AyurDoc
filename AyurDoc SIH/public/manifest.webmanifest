@@ -1,0 +1,20 @@
+{
+  "name": "AyurDoc Ayurvedic Care",
+  "short_name": "AyurDoc",
+  "description": "Multilingual Ayurvedic case intake, Vaidya referrals, voice messages and hospital services.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4faf8",
+  "theme_color": "#126f66",
+  "categories": ["medical", "health", "utilities"],
+  "icons": [
+    {
+      "src": "/ayurdoc-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

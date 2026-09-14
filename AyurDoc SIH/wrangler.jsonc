@@ -1,0 +1,15 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ayurdoc",
+  "main": "./worker/index.ts",
+  "compatibility_date": "2026-05-22",
+  "compatibility_flags": ["nodejs_compat"],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "ayurdoc-db",
+      "database_id": "e6dc411f-d8ed-4497-93dc-f8df564fafac",
+      "migrations_dir": "drizzle"
+    }
+  ]
+}
