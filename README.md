@@ -2,10 +2,6 @@
 
 AyurDoc is a multilingual, AI-assisted patient case-taking platform developed by Team MedZone for Smart India Hackathon 2026.
 
-Problem Statement ID: 26047  
-Theme: MedTech / BioTech / HealthTech  
-Category: Software  
-
 Live Application:  
 https://ayurdoc.rozan-adhikari07.workers.dev/
 
