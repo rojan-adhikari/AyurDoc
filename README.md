@@ -9,6 +9,18 @@ Category: Software
 Live Application:  
 https://ayurdoc.rozan-adhikari07.workers.dev/
 
+## Demo Credentials
+
+Patient Portal:
+
+Username: patient  
+Password: 123456  
+
+Doctor Portal:
+
+Username: doctor  
+Password: 123456  
+
 
 ## Problem
 
@@ -62,17 +74,7 @@ AyurDoc enables patients to provide their medical history through guided forms, 
 - FHIR-ready healthcare data structure
 
 
-## Demo Credentials
 
-Patient Portal:
-
-Username: patient  
-Password: 123456  
-
-Doctor Portal:
-
-Username: doctor  
-Password: 123456  
 
 
 ## Local Setup
@@ -99,4 +101,4 @@ http://localhost:5173/
 AyurAI provides preliminary guidance, department recommendations, and consultation preparation. It does not provide a final diagnosis or prescription. All clinical information must be reviewed and confirmed by a qualified Vaidya or doctor.
 
 
-Developed by Team MedZone for Smart India Hackathon 2026.
+Developed by Team MedZone.
